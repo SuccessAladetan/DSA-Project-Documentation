@@ -13,7 +13,7 @@ This Data analysis project aims to generate insight into the total number of sta
 The primary data source was provided by the company.
 
 ### Tools used
-- Ms Excel For data clearing [Download here](https://www.microsoft](https://www.microsoft.com/en/microsoft-365/excel))
+- Ms Excel For data clearing [Download here](https://www.microsoft.com/en/microsoft-365/excel)
   - For Data Collection
   - For Data Cleaning
      1. Data Manipulation
