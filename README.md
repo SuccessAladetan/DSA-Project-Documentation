@@ -22,6 +22,19 @@ The primary data source was provided by the company.
 - Power Bi (For creating a report)
 - Ms PowerPoint (For presentation)
 
+### Data Cleaning and preparation 
+In the initial phrase of the data cleaning and preparation, we performed the following action;
+1. Data loading and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involves the exploring of the data to answer some questions about the data such as;
+- What is the total number of staff
+- Which staff earns the highest and lowest
+- Who is the longest/oldest serving staff
+
+
 
 
 
