@@ -34,7 +34,13 @@ EDA involves the exploring of the data to answer some questions about the data s
 - Which staff earns the highest and lowest
 - Who is the longest/oldest serving staff
 
+### Data Analysis
+This is where we include some basic line of codes and queries used during our analysis.
 
+``` SQL
+Select * from Employee
+
+```
 
 
 
